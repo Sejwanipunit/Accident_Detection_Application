@@ -19,7 +19,7 @@
         android:theme="@style/Theme.Material3.Light.NoActionBar">
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyBw5Or0d-Gx_5T-p8-Jw4F9A_tAn_-KrZg" />
+            android:value="Enter_Your_API_KEY" />
 
         <activity
             android:name=".Register"
