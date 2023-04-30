@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "466075584956",
+    "project_id": "cellular-ratio-382618",
+    "storage_bucket": "cellular-ratio-382618.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466075584956:android:3e18d7033f734c03d503b9",
+        "android_client_info": {
+          "package_name": "com.example.googleplaces"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466075584956-37cj10sge9po5k957j0f75f23st46vub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoCUKZZtIPL7wkiF34IReeSlybIWDEcoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466075584956-37cj10sge9po5k957j0f75f23st46vub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466075584956:android:5c81525778383af2d503b9",
+        "android_client_info": {
+          "package_name": "com.example.roadsafety20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466075584956-37cj10sge9po5k957j0f75f23st46vub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoCUKZZtIPL7wkiF34IReeSlybIWDEcoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466075584956-37cj10sge9po5k957j0f75f23st46vub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
